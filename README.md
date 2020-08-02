@@ -1,5 +1,4 @@
 # RootkitAnalysis
-Formation analyse / pratique déformation de plusieurs Rootkits.
 ## Qu'est-ce qu'est un rootkit ?<br/><br/>
 - Programme qui effectue le raccordement du système ou modifie la fonctionnalité du système d'exploitation
 - Masquer les fichiers, processus, autres objets pour masquer sa présence
