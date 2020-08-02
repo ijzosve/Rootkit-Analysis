@@ -123,8 +123,8 @@
 <img src="https://media.discordapp.net/attachments/680760382935007467/680769529584156712/unknown.png"/><br/>
 ## Activité réseau<br/><br/>
 - Un logiciel malveillant effectue des activités DNS et http<br/><br/>
-<img src="https://media.discordapp.net/attachments/680760382935007467/680769656104943651/unknown.png"/>
-<img src="https://media.discordapp.net/attachments/680760382935007467/680769697368768522/unknown.png"/>
+<img src="https://media.discordapp.net/attachments/680760382935007467/680769656104943651/unknown.png"/><br/>
+<img src="https://media.discordapp.net/attachments/680760382935007467/680769697368768522/unknown.png"/><br/>
 ## Soumet des informations sur le processus<br/><br/>
 - Soumet les informations de processus sur le système au serveur de commande et de contrôle<br/><br/>
 <img src="https://media.discordapp.net/attachments/680760382935007467/680769798866731100/unknown.png"/><br/>
