@@ -25,3 +25,12 @@
 ## Cycle d'appel de fonction sous Windows<br/><br/>
 - La capture d'écran ci-dessous montre le cycle de vie de l'API sur le système Windows<br/><br/>
 <img src="https://media.discordapp.net/attachments/680760382935007467/680761993489285163/unknown.png"/><br/>
+## Niveaux de hook / modification sur Windows<br/><br/>
+- La capture d'écran ci-dessous montre des tableaux et des objets que le Rootkit peut accrocher / modifier pour masquer sa présence<br/><br/>
+<img src="https://media.discordapp.net/attachments/680760382935007467/680762236364390461/unknown.png"/><br/>
+## Note<br/><br/>
+- La théorie et les techniques du rootkit seront traitées en profondeur dans un autre repo. Cette session se concentre sur l'analyse des rootkits.
+# Demo 1
+## Exécution du sample mader.exe<br/><br/>
+- L'exécution de l'exemple supprime un pilote et le charge en tant que service du noyau<br/><br/>
+<img src="https://media.discordapp.net/attachments/680760382935007467/680764051244187703/unknown.png"/><br/>
