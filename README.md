@@ -97,6 +97,7 @@
 <img src="https://media.discordapp.net/attachments/680760382935007467/680768380197929038/unknown.png"/><br/>
 ## Objet Device et Driver<br/><br/>
 - L'examen des objets périphérique et pilote montre l'adresse de base et l'adresse de la routine DriverEntry<br/><br/>
+- A savoir que le rootkit est tiré d'un sample sur github, l'auteur se trouve dans les citations cherchez-les.
 <img src="https://media.discordapp.net/attachments/680760382935007467/680768523911299119/unknown.png"/><br/>
 <img src="https://media.discordapp.net/attachments/680760382935007467/680768563291619370/unknown.png"/><br/>
 ## Routine DriverEntry<br/><br/>
